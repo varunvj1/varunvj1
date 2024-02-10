@@ -4,9 +4,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- ⚡ &nbsp; Frontend Developer | Open Source Contributor
+- ⚡ &nbsp; Data Engineer | Software Developer | Open Source Contributor
 - 💻 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🌱 &nbsp; Currently learning about Data Structures and Algorithms. 
+- 🌱 &nbsp; Currently working as a Data Engineer Consultant.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
